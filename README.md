@@ -26,7 +26,7 @@
   <img aling="center" alt="tensorflow" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img aling="center" alt="pytorch" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img aling="center" alt="unity" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img aling="center" alt="qiskit" width="100" src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" />
+  <img aling="center" alt="qiskit" width="100" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" />
   <img aling="center" alt="assembly" width="40" src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" />
 </div>
 
